@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Danis
 
 * 🇷🇺 I live in Russia
-* 🏢 I am senior software developer at [EPAM Systems](https://www.epam.com/)
+* 🏢 I am senior software developer
 * 🐒 My primary languages are JavaScript and Typescript. Sometimes I write in Python
 * 🧰 I love working on dev tooling. Please check out my current project - [📜 Netlogs](https://github.com/Artboomy/netlogs)
 * 🐈 I am cat person
