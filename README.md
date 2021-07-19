@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Danis
 
 * 🇷🇺 I live in Russia
-* 🏢 I am senior software developer
+* 🏢 I am senior software developer @ [SberMarket](https://sbermarket.ru/about)
 * 🐒 My primary languages are JavaScript and Typescript. Sometimes I write in Python
 * 🧰 I love working on dev tooling. Please check out my current project - [📜 Netlogs](https://github.com/Artboomy/netlogs)
 * 🐈 I am cat person
