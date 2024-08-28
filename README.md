@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Danis
 
 * 🏢 I am Frontend tech lead @ [SberMarket](https://sbermarket.ru/about)
-* 📅 8 years of professional experience in Frontend Development
+* 📅 9 years of professional experience in Frontend Development
 * 🐒 My primary languages are JavaScript and Typescript. Sometimes I write in Python
 * 🧰 I love working on dev tooling. Please check out my current project - [📜 Netlogs](https://github.com/Artboomy/netlogs)
 * 🐈 I am a cat person
@@ -31,5 +31,4 @@
 
 ## 🤝 Social links
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danis-gumerov) 
-[![twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Artboomy)
 [![Instagram](https://img.shields.io/badge/Instagram%20-orange.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/certainredfox/)
