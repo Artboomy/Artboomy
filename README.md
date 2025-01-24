@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Danis
 
-* 🏢 I am Frontend tech lead @ [SberMarket](https://sbermarket.ru/about)
+* 🏢 I am a Senior Frontend Developer
 * 📅 9 years of professional experience in Frontend Development
 * 🐒 My primary languages are JavaScript and Typescript. Sometimes I write in Python
 * 🧰 I love working on dev tooling. Please check out my current project - [📜 Netlogs](https://github.com/Artboomy/netlogs)
